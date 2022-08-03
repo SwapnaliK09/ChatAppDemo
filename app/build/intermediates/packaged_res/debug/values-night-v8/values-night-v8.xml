@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <style name="Theme.ChatApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+
+
+
+
+
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/primary</item>
+    </style>
+</resources>

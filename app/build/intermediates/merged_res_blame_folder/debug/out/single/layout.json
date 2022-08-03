@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-mergeDebugResources-29:\\layout\\item_container_send_message.xml",
+        "source": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-main-32:\\layout\\item_container_send_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-mergeDebugResources-29:\\layout\\item_container_recent_conversion.xml",
+        "source": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-main-32:\\layout\\item_container_recent_conversion.xml"
+    },
+    {
+        "merged": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-mergeDebugResources-29:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.chatapplication.app-mergeDebugResources-29:/layout/activity_chat.xml",
+        "source": "com.example.chatapplication.app-main-32:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-mergeDebugResources-29:\\layout\\item_container_user.xml",
+        "source": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-main-32:\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-mergeDebugResources-29:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-main-32:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-mergeDebugResources-29:\\layout\\activity_users.xml",
+        "source": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-main-32:\\layout\\activity_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-mergeDebugResources-29:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-main-32:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-mergeDebugResources-29:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-main-32:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-mergeDebugResources-29:\\layout\\item_container_received_message.xml",
+        "source": "C:\\Users\\swapn\\.gradle\\daemon\\7.3.3\\com.example.chatapplication.app-main-32:\\layout\\item_container_received_message.xml"
+    }
+]
